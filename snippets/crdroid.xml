@@ -2,7 +2,7 @@
 <manifest>
 
   <!-- crDroid additions -->
-  <project path="android" name="crdroidandroid/android" remote="crdroid" />
+  <project path="android" name="crDroid11/android" remote="crDroid11" />
 
   <project path="art" name="crdroidandroid/android_art" remote="crdroid" />
 
@@ -10,7 +10,7 @@
 
   <project path="bootable/recovery" name="crdroidandroid/android_bootable_recovery" remote="crdroid" />
 
-  <project path="build/make" name="crdroidandroid/android_build" remote="crdroid" >
+  <project path="build/make" name="crDroid11/android_build" remote="crDroid11" >
     <copyfile src="core/root.mk" dest="Makefile" />
     <linkfile src="CleanSpec.mk" dest="build/CleanSpec.mk" />
     <linkfile src="buildspec.mk.default" dest="build/buildspec.mk.default" />
@@ -51,8 +51,8 @@
   <project path="external/wpa_supplicant_8" name="crdroidandroid/android_external_wpa_supplicant_8" remote="crdroid" />
   <project path="external/zlib" name="crdroidandroid/android_external_zlib" remote="crdroid" />
 
-  <project path="frameworks/av" name="crdroidandroid/android_frameworks_av" remote="crdroid" />
-  <project path="frameworks/base" name="crdroidandroid/android_frameworks_base" remote="crdroid" />
+  <project path="frameworks/av" name="crDroid11/android_frameworks_av" remote="crDroid11" />
+  <project path="frameworks/base" name="crDroid11/android_frameworks_base" remote="crDroid11" />
   <project path="frameworks/libs/systemui" name="crdroidandroid/android_frameworks_libs_systemui" remote="crdroid" />
   <project path="frameworks/native" name="crdroidandroid/android_frameworks_native" remote="crdroid" />
   <project path="frameworks/opt/net/wifi" name="crdroidandroid/android_frameworks_opt_net_wifi" remote="crdroid" />
