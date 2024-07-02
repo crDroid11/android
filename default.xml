@@ -30,6 +30,12 @@
            sync-j="4"
            revision="refs/heads/11.0" />
 
+    <remote  name="crDroid11"
+           fetch="https://github.com/"
+           sync-c="true"
+           sync-j="4"
+           revision="refs/heads/11.0" />
+
   <!-- AOSP Projects -->
 
   <!--<project path="build/make" name="LineageOS/android_build" groups="pdk" >
