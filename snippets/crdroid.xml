@@ -33,7 +33,6 @@
   <project path="external/expat" name="crdroidandroid/android_external_expat" remote="crdroid" />
   <project path="external/faceunlock" name="crdroidandroid/android_external_faceunlock" remote="crdroid-gitlab" />
   <project path="external/freetype" name="crdroidandroid/android_external_freetype" remote="crdroid" />
-  <project path="external/giflib" name="crdroidandroid/android_external_giflib" remote="crdroid" />
   <project path="external/harfbuzz_ng" name="crdroidandroid/android_external_harfbuzz_ng" remote="crdroid" />
   <project path="external/jemalloc_new" name="crdroidandroid/android_external_jemalloc-new" remote="crdroid" />
   <project path="external/libcxx" name="crdroidandroid/android_external_libcxx" remote="crdroid" />
