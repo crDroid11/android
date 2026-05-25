@@ -37,7 +37,7 @@
   <project path="external/jemalloc_new" name="crdroidandroid/android_external_jemalloc-new" remote="crdroid" />
   <project path="external/libcxx" name="crdroidandroid/android_external_libcxx" remote="crdroid" />
   <project path="external/libhevc" name="crdroidandroid/android_external_libhevc" remote="crdroid" />
-  <project path="external/libpng" name="crdroidandroid/android_external_libpng" remote="crdroid" />
+  <project path="external/libpng" name="crdroidandroid/android_external_libpng" remote="crDroid11" />
   <project path="external/libvpx" name="crdroidandroid/android_external_libvpx" remote="crdroid" />
   <project path="external/libyuv" name="crdroidandroid/android_external_libyuv" remote="crdroid" />
   <project path="external/lz4" name="crdroidandroid/android_external_lz4" remote="crdroid" />
@@ -81,7 +81,7 @@
   <project path="packages/apps/Dialer" name="crdroidandroid/android_packages_apps_Dialer" remote="crdroid" />
   <project path="packages/apps/ExactCalculator" name="crdroidandroid/android_packages_apps_ExactCalculator" remote="crdroid" />
   <project path="packages/apps/FaceUnlockService" name="crdroidandroid/android_packages_apps_FaceUnlockService" remote="crdroid" />
-  <project path="packages/apps/Launcher3" name="crdroidandroid/android_packages_apps_Launcher3" remote="crdroid" />
+  <project path="packages/apps/Launcher3" name="crDroid11/android_packages_apps_Launcher3" remote="crDroid11" />
   <project path="packages/apps/LineageParts" name="crdroidandroid/android_packages_apps_LineageParts" remote="crdroid" />
   <project path="packages/apps/Matlog" name="crdroidandroid/android_packages_apps_Matlog" remote="crdroid" />
   <project path="packages/apps/Messaging" name="crdroidandroid/android_packages_apps_Messaging" remote="crdroid" />
