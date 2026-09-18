@@ -6,7 +6,7 @@
 
   <project path="art" name="crdroidandroid/android_art" remote="crdroid" />
 
-  <project path="bionic" name="crdroidandroid/android_bionic" remote="crdroid" />
+  <project path="bionic" name="crDroid11/android_bionic" remote="crDroid11" />
 
   <project path="bootable/recovery" name="crdroidandroid/android_bootable_recovery" remote="crdroid" />
 
